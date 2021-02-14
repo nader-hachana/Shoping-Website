@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-image: url("https://www.patternpictures.com/wp-content/uploads/Mobile-hd-wallpaper-light-background-steel-interlocked-pattern.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-width: 100%;
+  min-height: 100%;
+}
+
